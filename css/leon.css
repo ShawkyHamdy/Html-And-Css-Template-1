@@ -60,9 +60,9 @@ body {
 
 /* Start header */
 
-/* .header {
+.header {
     padding: 20px;
-} */
+}
 
 .header .container {
     display: flex;
